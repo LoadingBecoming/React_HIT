@@ -1,0 +1,27 @@
+.wrapper {
+  position: relative;
+}
+
+.header {
+  position: absolute;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+}
+
+.bg-dark {
+  background: rgba(0, 0, 0, 0) !important;
+}
+
+.fatrans {
+  position: relative;
+}
+
+.transpospicture {
+  position: absolute;
+  top: 75px;
+  right: 0;
+}
+
+

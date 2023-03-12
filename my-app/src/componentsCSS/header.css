@@ -1,0 +1,9 @@
+.me-auto {
+  margin-right: 0 !important;
+  margin-left: auto !important;
+}
+
+#collasible-nav-dropdown {
+  display: flex;
+  justify-content: space-around;
+}
